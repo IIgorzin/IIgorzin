@@ -1,6 +1,6 @@
 ## Sobre mim
 - 👋 Ola, meu nome é **@IIgorzin** 
-- 👍 Meu email de contato é [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a href="mailto:igordvidal@gmail.com"></a>]
+- 👍 Meu email de contato é [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igordvidal@gmail.com)
 - 👀 Eu estou interessado em aprender a programar novas línguagens
 - 🌱 Eu estou aprendendo a programar em JavaScript, HTML, CSS3, PHP, Phyton
 - **iguinruinzin#2006** ![](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white) 
