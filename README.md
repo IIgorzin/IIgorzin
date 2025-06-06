@@ -29,4 +29,4 @@
 
 ## 📫 Contato
 
-Se quiser trocar uma ideia, me chama aqui mesmo pelo GitHub! 🚀
+Se quiser trocar uma ideia, me chama no instagram: @igoorzinnh ! 🚀
